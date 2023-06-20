@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [aacoder.me](aacoder.me)
+- 👨‍💻 All of my projects are available at [aacoder.me](https://aacoder.me)
 
 - 💬 Ask me about **C++ and Java**
 

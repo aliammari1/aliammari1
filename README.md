@@ -15,6 +15,12 @@
 
 ###
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img alt="ali ammari" src="https://github-profile-trophy.vercel.app/?username=aliammari1&row=1&margin-w=1">
+</p>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -76,6 +82,10 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<img alt="ali ammari" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aliammari1"/>
 
 ###
 

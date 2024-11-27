@@ -67,6 +67,8 @@
 
 ###
 
+<img align="right" height="150" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"  />
+
 ###
 
 <div align="left">
@@ -80,10 +82,6 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<img alt="ali ammari" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aliammari1"/>
 
 ###
 

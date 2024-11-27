@@ -67,8 +67,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"  />
-
 ###
 
 <div align="left">

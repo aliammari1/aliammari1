@@ -1,10 +1,3 @@
-‎README.md
-+2
--4
-
-
-Original file line number	Diff line number	Diff line change
-@@ -1,94 +1,92 @@
 <h1 align="center">Hi 👋! I'm Ali Ammari</h1>
 
 ###

@@ -82,4 +82,4 @@
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aliammari1/aliammari1/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/aliammari1/aliammari1/output/snake.svg" alt="Snake animation" /> -->

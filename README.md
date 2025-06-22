@@ -1,85 +1,349 @@
-<h1 align="center">Hi 👋! I'm Ali Ammari</h1>
+<!-- Dynamic Header with Dark Blue Colors -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=200&section=header&text=Ali%20Ammari&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=55&descSize=20" />
+</div>
 
-###
+<!-- Live Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Building+the+Future+with+Code;💡+AI+%26+Machine+Learning+Explorer;🌍+Open+Source+Advocate;🎯+Problem+Solver+%26+Innovator;📱+Cross-Platform+Developer&font=Fira%20Code&center=true&width=600&height=50&color=3b82f6&vCenter=true&size=22&pause=1000" />
+</div>
+
+<!-- Profile Analytics Dashboard with Dark Blue Style -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliammari1&color=1e40af&style=flat&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/aliammari1?label=Followers&style=flat&color=1e3a8a&logo=github" />
+  <img src="https://img.shields.io/github/stars/aliammari1?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=3b82f6&label=Total%20Stars" />
+  <img src="https://img.shields.io/badge/Open%20For-Collaboration-2563eb?style=flat&logo=handshake" />
+</div>
+
+---
+
+<!-- Bio Section with Gradient -->
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h2>🚀 About Me</h2>
+  <p>
+    <em>Passionate developer from <strong>Ariana, Tunisia</strong> 🇹🇳</em><br/>
+    <em>Turning ideas into reality through code and innovation</em><br/>
+    <em>Building bridges between technology and human needs</em>
+  </p>
+</div>
+
+---
+
+<!-- Interactive Stats Grid -->
+<h2 align="center">📊 Developer Analytics & Insights</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/aliammari1/count.svg?"  />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=aliammari1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Ali's%20GitHub%20Stats&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliammari1&theme=dark&hide_border=true&background=0f172a&stroke=3b82f6&ring=1e40af&fire=2563eb&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=e2e8f0" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<!-- Advanced Language Analytics -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliammari1&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&langs_count=12&custom_title=Language%20Mastery%20Distribution" />
+</div>
+
+<!-- Trophy Showcase -->
+<div align="center">
+  <h2>🏆 Achievement Gallery</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=aliammari1&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories" />
+</div>
+
+---
+
+<!-- Featured Projects Carousel -->
+<h2 align="center">🚀 Featured Project Showcase</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliammari1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliammari1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true" height="150" alt="languages graph"  />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🤖 Awesome AI Tools</h3>
+        <a href="https://github.com/aliammari1/Awesome-Ai-Tools">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=Awesome-Ai-Tools&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
+        </a>
+        <p><em>⭐ 24 stars | 🍴 4 forks | 🔗 GitBook Integration</em></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎯 GitHub Traffic Analytics</h3>
+        <a href="https://github.com/aliammari1/github-traffic-analytics">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=github-traffic-analytics&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
+        </a>
+        <p><em>📊 TypeScript | ⚡ Vercel Deployment | 📈 Analytics Dashboard</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🚗 QtVoyager Travel Management</h3>
+        <a href="https://github.com/aliammari1/QtVoyager-A-Cpp-GUI-for-Travel-Management">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=QtVoyager-A-Cpp-GUI-for-Travel-Management&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
+        </a>
+        <p><em>⭐ 9 stars | 🔧 C++ & Qt | 🚀 Open Source</em></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎮 Interactive Games Collection</h3>
+        <a href="https://github.com/aliammari1/Tic-Tac-Toe-Game">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=Tic-Tac-Toe-Game&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
+        </a>
+        <p><em>🎯 TypeScript | 🎨 Interactive UI | 🌐 Live Demo</em></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img alt="ali ammari" src="https://github-profile-trophy.vercel.app/?username=aliammari1&row=1&margin-w=1">
-</p>
+<!-- Comprehensive Tech Stack -->
+<h2 align="center">💻 Complete Technology Arsenal</h2>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="30" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-plain.svg" height="30" alt="sdl logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="30" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+<div align="center">
+  <h3>🔥 Core Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,php,html,css,swift,kotlin,dart&theme=dark" />
+  
+  <h3>⚡ Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,qt,flutter,nextjs,nestjs&theme=dark" />
+  
+  <h3>🗄️ Databases & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,azure,aws,vercel,netlify&theme=dark" />
+  
+  <h3>🛠️ Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,docker&theme=dark" />
 </div>
 
-###
+<!-- Language Proficiency Chart -->
+<div align="center">
+  <h3>📈 Language Proficiency Breakdown</h3>
+  <table>
+    <tr>
+      <td><strong>Expert</strong></td>
+      <td>JavaScript, TypeScript, Python, Java</td>
+    </tr>
+    <tr>
+      <td><strong>Advanced</strong></td>
+      <td>C++, PHP, HTML/CSS, React</td>
+    </tr>
+    <tr>
+      <td><strong>Intermediate</strong></td>
+      <td>C, C#, Swift, Kotlin, Dart</td>
+    </tr>
+    <tr>
+      <td><strong>Learning</strong></td>
+      <td>Machine Learning, DevOps, Cloud Architecture</td>
+    </tr>
+  </table>
+</div>
 
-<img align="right" height="150" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"  />
+---
 
-<div align="left">
-  <a href="mailto:ammari.ali.0001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<!-- Activity Heatmap -->
+<h2 align="center">📈 Development Activity Insights</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliammari1&theme=github-compact&hide_border=true&bg_color=0f172a&color=3b82f6&line=1e40af&point=2563eb&area=true&area_color=1e3a8a" />
+</div>
+
+<!-- Contribution Calendar -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliammari1&theme=github_dark" />
+</div>
+
+---
+
+<!-- Advanced Stats Grid -->
+<h2 align="center">📊 Advanced Developer Metrics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliammari1&theme=github_dark" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliammari1&theme=github_dark" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliammari1&theme=github_dark" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliammari1&theme=github_dark&utcOffset=1" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Interactive Project Timeline -->
+<h2 align="center">🌟 Project Evolution Timeline</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>2025</th>
+      <td>� Rakcha Mobile (Dart/Flutter)</td>
+      <td>� Medical App Backend (Python)</td>
+    </tr>
+    <tr>
+      <th>2024</th>
+      <td>🎬 Rakcha Desktop (Java)</td>
+      <td>📊 Tunisia Telecom (TypeScript)</td>
+    </tr>
+    <tr>
+      <th>2023</th>
+      <td>🤖 Awesome AI Tools (Python)</td>
+      <td>🚗 QtVoyager (C++)</td>
+    </tr>
+    <tr>
+      <th>2022</th>
+      <td>💻 HackerRank Solutions (C++)</td>
+      <td>🎮 Gaming Projects (JavaScript)</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Skill Visualization -->
+<h2 align="center">🎯 Skills & Expertise Matrix</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%">
+        <h4>🌐 Frontend</h4>
+        <img src="https://img.shields.io/badge/React-Expert-20232A?style=flat-square&logo=react" /><br>
+        <img src="https://img.shields.io/badge/TypeScript-Expert-007ACC?style=flat-square&logo=typescript" /><br>
+        <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript" /><br>
+        <img src="https://img.shields.io/badge/HTML/CSS-Expert-E34F26?style=flat-square&logo=html5" />
+      </td>
+      <td width="25%">
+        <h4>⚙️ Backend</h4>
+        <img src="https://img.shields.io/badge/Node.js-Advanced-43853D?style=flat-square&logo=node.js" /><br>
+        <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python" /><br>
+        <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=java" /><br>
+        <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php" />
+      </td>
+      <td width="25%">
+        <h4>📱 Mobile</h4>
+        <img src="https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat-square&logo=flutter" /><br>
+        <img src="https://img.shields.io/badge/Swift-Intermediate-FA7343?style=flat-square&logo=swift" /><br>
+        <img src="https://img.shields.io/badge/Kotlin-Intermediate-0095D5?style=flat-square&logo=kotlin" /><br>
+        <img src="https://img.shields.io/badge/Dart-Intermediate-0175C2?style=flat-square&logo=dart" />
+      </td>
+      <td width="25%">
+        <h4>🖥️ Systems</h4>
+        <img src="https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=c%2B%2B" /><br>
+        <img src="https://img.shields.io/badge/C-Intermediate-00599C?style=flat-square&logo=c" /><br>
+        <img src="https://img.shields.io/badge/Qt-Advanced-41CD52?style=flat-square&logo=qt" /><br>
+        <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat-square&logo=c-sharp" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Daily Motivation -->
+<h2 align="center">💡 Daily Developer Inspiration</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+</div>
+
+<!-- Contact & Social Links -->
+<h2 align="center">🌐 Connect & Collaborate</h2>
+
+<div align="center">
+  <a href="mailto:ammari.ali.0001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aliammari68/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://aliammari.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-1e40af?style=flat&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/ali.ammari.9465/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://github.com/aliammari1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://alis-organization-72.gitbook.io/awesome-ai-tools/">
+    <img src="https://img.shields.io/badge/GitBook-3b82f6?style=flat&logo=gitbook&logoColor=white" />
   </a>
 </div>
-<br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/aliammari1/aliammari1/output/snake.svg" alt="Snake animation" /> -->
+---
+
+<!-- Fun Facts Section -->
+<h2 align="center">🎯 Developer Stats & Fun Facts</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>🏆 Public Repos</strong></td>
+      <td align="center"><strong>26+</strong></td>
+      <td align="center"><strong>👥 Followers</strong></td>
+      <td align="center"><strong>12+</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>⭐ Total Stars</strong></td>
+      <td align="center"><strong>40+</strong></td>
+      <td align="center"><strong>🍴 Total Forks</strong></td>
+      <td align="center"><strong>10+</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📅 GitHub Since</strong></td>
+      <td align="center"><strong>March 2022</strong></td>
+      <td align="center"><strong>🌍 Location</strong></td>
+      <td align="center"><strong>Tunisia 🇹🇳</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💼 Status</strong></td>
+      <td align="center"><strong>Open to Hire</strong></td>
+      <td align="center"><strong>🎯 Focus</strong></td>
+      <td align="center"><strong>Full Stack & AI</strong></td>
+    </tr>
+  </table>
+</div>
+
+<!-- Current Focus -->
+<div align="center">
+  <h3>🚀 Currently Working On</h3>
+  <p>
+    🤖 <strong>AI Tools Development</strong> | 📱 <strong>Cross-Platform Mobile Apps</strong> | 🌐 <strong>Web Technologies</strong>
+  </p>
+  
+  <h3>🎯 2025 Goals</h3>
+  <p>
+    🏗️ <strong>Contribute to 50+ Open Source Projects</strong><br/>
+    📚 <strong>Master Machine Learning & AI</strong><br/>
+    🌟 <strong>Build Impactful Developer Tools</strong>
+  </p>
+</div>
+
+---
+
+<!-- Footer with Dark Blue Colors -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=120&section=footer&animation=twinkling" />
+  
+  <p>
+    <em>"Code is poetry written in logic, and every commit is a verse in the story of innovation."</em>
+  </p>
+  
+  <img src="https://img.shields.io/badge/Built%20with-❤️-3b82f6?style=flat" />
+  <img src="https://img.shields.io/badge/Powered%20by-☕-1e40af?style=flat" />
+  <img src="https://img.shields.io/badge/Open-Source-1e3a8a?style=flat" />
+</div>
+  
+  <img src="https://img.shields.io/badge/Built%20with-❤️-f093fb?style=flat" />
+  <img src="https://img.shields.io/badge/Powered%20by-☕-764ba2?style=flat" />
+  <img src="https://img.shields.io/badge/Open-Source-667eea?style=flat" />
+</div>

@@ -74,20 +74,34 @@
         <p><em>⭐ 24 stars | 🍴 4 forks | 🔗 GitBook Integration</em></p>
       </td>
       <td width="50%" align="center">
-        <h3>🎯 GitHub Traffic Analytics</h3>
-        <a href="https://github.com/aliammari1/github-traffic-analytics">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=github-traffic-analytics&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
-        </a>
-        <p><em>📊 TypeScript | ⚡ Vercel Deployment | 📈 Analytics Dashboard</em></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
         <h3>🚗 QtVoyager Travel Management</h3>
         <a href="https://github.com/aliammari1/QtVoyager-A-Cpp-GUI-for-Travel-Management">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=QtVoyager-A-Cpp-GUI-for-Travel-Management&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
         </a>
         <p><em>⭐ 9 stars | 🔧 C++ & Qt | 🚀 Open Source</em></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎬 Rakcha Desktop</h3>
+        <a href="https://github.com/aliammari1/rakcha-desktop">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=rakcha-desktop&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
+        </a>
+        <p><em>☕ Java & JavaFX | 🎭 Entertainment Platform | 📺 Movies & Series</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🌐 Rakcha Web</h3>
+        <a href="https://github.com/aliammari1/rakcha-web">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=rakcha-web&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
+        </a>
+        <p><em>🐘 PHP & Twig | 🎯 Web Platform | 🔥 Dynamic Content</em></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>📚 ReadRealm</h3>
+        <a href="https://github.com/aliammari1/libraryapp-android-front">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=libraryapp-android-front&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
+        </a>
+        <p><em>🤖 Kotlin Android | 📖 Library Management | 📱 Mobile First</em></p>
       </td>
       <td width="50%" align="center">
         <h3>🎮 Interactive Games Collection</h3>
@@ -110,13 +124,31 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,php,html,css,swift,kotlin,dart&theme=dark" />
   
   <h3>⚡ Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,qt,flutter,nextjs,nestjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,qt,flutter,nextjs,nestjs,fastapi&theme=dark" />
   
   <h3>🗄️ Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,azure,aws,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,azure,aws,vercel,netlify,supabase,redis,appwrite&theme=dark" />
   
   <h3>🛠️ Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,docker,gradle,maven&theme=dark" />
+  
+  <h3>🏗️ DevOps & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,grafana,prometheus,ansible&theme=dark" />
+  
+  <h3>🔧 Additional Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=prisma,rabbitmq,nginx&theme=dark" />
+  
+  <h3>🔐 Security & Monitoring Tools</h3>
+  <img src="https://img.shields.io/badge/Keycloak-4d4d4d?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white" />
+  <img src="https://img.shields.io/badge/etcd-419EDA?style=for-the-badge&logo=etcd&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-3d348b?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tempo-E6522C?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </div>
 
 <!-- Language Proficiency Chart -->
@@ -126,18 +158,16 @@
     <tr>
       <td><strong>Expert</strong></td>
       <td>JavaScript, TypeScript, Python, Java</td>
-    </tr>
-    <tr>
+    </tr>    <tr>
       <td><strong>Advanced</strong></td>
-      <td>C++, PHP, HTML/CSS, React</td>
-    </tr>
-    <tr>
+      <td>C++, PHP, HTML/CSS, React, Qt, Docker, Prisma</td>
+    </tr>    <tr>
       <td><strong>Intermediate</strong></td>
-      <td>C, C#, Swift, Kotlin, Dart</td>
+      <td>C, C#, Swift, Kotlin, Dart, Flutter, Twig, Jenkins, MongoDB</td>
     </tr>
     <tr>
       <td><strong>Learning</strong></td>
-      <td>Machine Learning, DevOps, Cloud Architecture</td>
+      <td>Machine Learning, DevOps, Cloud Architecture, Microservices, Supabase</td>
     </tr>
   </table>
 </div>
@@ -232,6 +262,7 @@
         <img src="https://img.shields.io/badge/Node.js-Advanced-43853D?style=flat-square&logo=node.js" /><br>
         <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python" /><br>
         <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=java" /><br>
+        <img src="https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat-square&logo=fastapi" /><br>
         <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php" />
       </td>
       <td width="25%">
@@ -247,6 +278,38 @@
         <img src="https://img.shields.io/badge/C-Intermediate-00599C?style=flat-square&logo=c" /><br>
         <img src="https://img.shields.io/badge/Qt-Advanced-41CD52?style=flat-square&logo=qt" /><br>
         <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat-square&logo=c-sharp" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%">
+        <h4>🗄️ Database</h4>
+        <img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb" /><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-4169E1?style=flat-square&logo=postgresql" /><br>
+        <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql" /><br>
+        <img src="https://img.shields.io/badge/Prisma-Advanced-2D3748?style=flat-square&logo=prisma" /><br>
+        <img src="https://img.shields.io/badge/Supabase-Intermediate-3ECF8E?style=flat-square&logo=supabase" />
+      </td>
+      <td width="25%">
+        <h4>☁️ DevOps & Cloud</h4>
+        <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker" /><br>
+        <img src="https://img.shields.io/badge/Jenkins-Intermediate-D24939?style=flat-square&logo=jenkins" /><br>
+        <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes" /><br>
+        <img src="https://img.shields.io/badge/Azure-Intermediate-0078D4?style=flat-square&logo=microsoft-azure" /><br>
+        <img src="https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat-square&logo=amazon-aws" />
+      </td>
+      <td width="25%">
+        <h4>📊 Monitoring</h4>
+        <img src="https://img.shields.io/badge/Grafana-Intermediate-F46800?style=flat-square&logo=grafana" /><br>
+        <img src="https://img.shields.io/badge/Prometheus-Intermediate-E6522C?style=flat-square&logo=prometheus" /><br>
+        <img src="https://img.shields.io/badge/SonarQube-Intermediate-4E9BCD?style=flat-square&logo=sonarqube" /><br>
+        <img src="https://img.shields.io/badge/Loki-Intermediate-F46800?style=flat-square&logo=grafana" />
+      </td>
+      <td width="25%">
+        <h4>🔐 Security & Auth</h4>
+        <img src="https://img.shields.io/badge/Keycloak-Intermediate-4d4d4d?style=flat-square&logo=keycloak" /><br>
+        <img src="https://img.shields.io/badge/HashiCorp_Vault-Intermediate-000000?style=flat-square&logo=vault" /><br>
+        <img src="https://img.shields.io/badge/OAuth2-Intermediate-3C4043?style=flat-square&logo=auth0" /><br>
+        <img src="https://img.shields.io/badge/JWT-Intermediate-000000?style=flat-square&logo=json-web-tokens" />
       </td>
     </tr>
   </table>
@@ -341,9 +404,4 @@
   <img src="https://img.shields.io/badge/Built%20with-❤️-3b82f6?style=flat" />
   <img src="https://img.shields.io/badge/Powered%20by-☕-1e40af?style=flat" />
   <img src="https://img.shields.io/badge/Open-Source-1e3a8a?style=flat" />
-</div>
-  
-  <img src="https://img.shields.io/badge/Built%20with-❤️-f093fb?style=flat" />
-  <img src="https://img.shields.io/badge/Powered%20by-☕-764ba2?style=flat" />
-  <img src="https://img.shields.io/badge/Open-Source-667eea?style=flat" />
 </div>

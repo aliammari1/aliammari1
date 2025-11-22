@@ -133,7 +133,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,docker,gradle,maven&theme=dark" />
   
   <h3>🏗️ DevOps & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,grafana,prometheus,ansible&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,ansible&theme=dark" />
   
   <h3>🔧 Additional Technologies</h3>
   <img src="https://skillicons.dev/icons?i=prisma,rabbitmq,nginx&theme=dark" />

@@ -331,7 +331,7 @@
   <a href="mailto:ammari.ali.0001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aliammari.netlify.app">
+  <a href="https://www.aliammari.com">
     <img src="https://img.shields.io/badge/Portfolio-1e40af?style=flat&logo=firefox&logoColor=white" />
   </a>
   <a href="https://github.com/aliammari1">

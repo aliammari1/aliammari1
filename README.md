@@ -60,62 +60,6 @@
 
 ---
 
-<!-- Featured Projects Carousel -->
-<h2 align="center">🚀 Featured Project Showcase</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🤖 Awesome AI Tools</h3>
-        <a href="https://github.com/aliammari1/Awesome-Ai-Tools">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=Awesome-Ai-Tools&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
-        </a>
-        <p><em>⭐ 24 stars | 🍴 4 forks | 🔗 GitBook Integration</em></p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🚗 QtVoyager Travel Management</h3>
-        <a href="https://github.com/aliammari1/QtVoyager-A-Cpp-GUI-for-Travel-Management">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=QtVoyager-A-Cpp-GUI-for-Travel-Management&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
-        </a>
-        <p><em>⭐ 9 stars | 🔧 C++ & Qt | 🚀 Open Source</em></p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🎬 Rakcha Desktop</h3>
-        <a href="https://github.com/aliammari1/rakcha-desktop">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=rakcha-desktop&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
-        </a>
-        <p><em>☕ Java & JavaFX | 🎭 Entertainment Platform | 📺 Movies & Series</em></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🌐 Rakcha Web</h3>
-        <a href="https://github.com/aliammari1/rakcha-web">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=rakcha-web&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
-        </a>
-        <p><em>🐘 PHP & Twig | 🎯 Web Platform | 🔥 Dynamic Content</em></p>
-      </td>
-      <td width="50%" align="center">
-        <h3>📚 ReadRealm</h3>
-        <a href="https://github.com/aliammari1/libraryapp-android-front">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=libraryapp-android-front&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
-        </a>
-        <p><em>🤖 Kotlin Android | 📖 Library Management | 📱 Mobile First</em></p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🎮 Interactive Games Collection</h3>
-        <a href="https://github.com/aliammari1/Tic-Tac-Toe-Game">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliammari1&repo=Tic-Tac-Toe-Game&theme=dark&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=1e40af" />
-        </a>
-        <p><em>🎯 TypeScript | 🎨 Interactive UI | 🌐 Live Demo</em></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <!-- Comprehensive Tech Stack -->
 <h2 align="center">💻 Complete Technology Arsenal</h2>
 
@@ -208,36 +152,6 @@
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliammari1&theme=github_dark&utcOffset=1" />
       </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- Interactive Project Timeline -->
-<h2 align="center">🌟 Project Evolution Timeline</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>2025</th>
-      <td>� Rakcha Mobile (Dart/Flutter)</td>
-      <td>� Medical App Backend (Python)</td>
-    </tr>
-    <tr>
-      <th>2024</th>
-      <td>🎬 Rakcha Desktop (Java)</td>
-      <td>📊 Tunisia Telecom (TypeScript)</td>
-    </tr>
-    <tr>
-      <th>2023</th>
-      <td>🤖 Awesome AI Tools (Python)</td>
-      <td>🚗 QtVoyager (C++)</td>
-    </tr>
-    <tr>
-      <th>2022</th>
-      <td>💻 HackerRank Solutions (C++)</td>
-      <td>🎮 Gaming Projects (JavaScript)</td>
     </tr>
   </table>
 </div>
@@ -340,55 +254,6 @@
   <a href="https://alis-organization-72.gitbook.io/awesome-ai-tools/">
     <img src="https://img.shields.io/badge/GitBook-3b82f6?style=flat&logo=gitbook&logoColor=white" />
   </a>
-</div>
-
----
-
-<!-- Fun Facts Section -->
-<h2 align="center">🎯 Developer Stats & Fun Facts</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>🏆 Public Repos</strong></td>
-      <td align="center"><strong>26+</strong></td>
-      <td align="center"><strong>👥 Followers</strong></td>
-      <td align="center"><strong>12+</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>⭐ Total Stars</strong></td>
-      <td align="center"><strong>40+</strong></td>
-      <td align="center"><strong>🍴 Total Forks</strong></td>
-      <td align="center"><strong>10+</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>📅 GitHub Since</strong></td>
-      <td align="center"><strong>March 2022</strong></td>
-      <td align="center"><strong>🌍 Location</strong></td>
-      <td align="center"><strong>Tunisia 🇹🇳</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>💼 Status</strong></td>
-      <td align="center"><strong>Open to Hire</strong></td>
-      <td align="center"><strong>🎯 Focus</strong></td>
-      <td align="center"><strong>Full Stack & AI</strong></td>
-    </tr>
-  </table>
-</div>
-
-<!-- Current Focus -->
-<div align="center">
-  <h3>🚀 Currently Working On</h3>
-  <p>
-    🤖 <strong>AI Tools Development</strong> | 📱 <strong>Cross-Platform Mobile Apps</strong> | 🌐 <strong>Web Technologies</strong>
-  </p>
-  
-  <h3>🎯 2025 Goals</h3>
-  <p>
-    🏗️ <strong>Contribute to 50+ Open Source Projects</strong><br/>
-    📚 <strong>Master Machine Learning & AI</strong><br/>
-    🌟 <strong>Build Impactful Developer Tools</strong>
-  </p>
 </div>
 
 ---

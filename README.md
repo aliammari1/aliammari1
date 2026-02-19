@@ -328,7 +328,7 @@
 <h2 align="center">🌐 Connect & Collaborate</h2>
 
 <div align="center">
-  <a href="mailto:ammari.ali.0001@gmail.com">
+  <a href="mailto:contact@aliammari.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.aliammari.com">

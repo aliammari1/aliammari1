@@ -131,6 +131,49 @@
 </div>
 
 ---
+<!-- GITHUB ACTIONS WIDGET 1: Contribution Snake -->
+<!-- SETUP: Add .github/workflows/snake.yml — see instructions below README -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aliammari1/aliammari1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aliammari1/aliammari1/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/aliammari1/aliammari1/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- GITHUB ACTIONS WIDGET 2: 3D Contribution Calendar -->
+<!-- SETUP: Add .github/workflows/profile-3d.yml — see instructions below README -->
+<h2 align="center">🌐 3D Contribution Calendar</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aliammari1/aliammari1/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</div>
+
+---
+
+<!-- GITHUB ACTIONS WIDGET 3: WakaTime Coding Stats -->
+<!-- SETUP: Add .github/workflows/waka.yml + WAKATIME_API_KEY secret -->
+<h2 align="center">⏱️ Weekly Coding Stats</h2>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<!-- GITHUB ACTIONS WIDGET 4: Recent Activity -->
+<!-- SETUP: Add .github/workflows/activity.yml -->
+<h2 align="center">⚡ Recent GitHub Activity</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 <!-- Advanced Stats Grid -->
 <h2 align="center">📊 Advanced Developer Metrics</h2>

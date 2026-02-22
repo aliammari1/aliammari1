@@ -22,12 +22,15 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: assets/snake.svg?palette=github-dark
 
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: main
-          build_dir: assets
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name aliammari1
+          git config user.email ammari.ali.0001@gmail.com
+          git add -A .
+          if git commit -m "Update Profile 3d Calendar"; then
+            git push
+          fi
+
+

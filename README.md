@@ -118,7 +118,7 @@
 <h2 align="center">🌐 3D Contribution Calendar</h2>
 
 <div align="center">
-  <img src="./assets/profile-night-view.svg" alt="3D Contributions" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" />
 </div>
 
 
@@ -301,3 +301,4 @@
   <img src="https://img.shields.io/badge/Powered%20by-☕-1e40af?style=flat" />
   <img src="https://img.shields.io/badge/Open-Source-1e3a8a?style=flat" />
 </div>
+

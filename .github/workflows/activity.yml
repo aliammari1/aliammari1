@@ -3,10 +3,6 @@ on:
     schedule: [{ cron: "0 */6 * * *" }]
     workflow_dispatch:
 
-    push:
-        branches:
-            - main
-
 jobs:   
     generate:
         permissions:
@@ -21,4 +17,5 @@ jobs:
               with:
                   COMMIT_MSG: "chore: update activity feed"
                   MAX_LINES: 8
+
 

@@ -1,27 +1,32 @@
-name: GitHub 3D Profile
-on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
+name: GitHub-Profile-3D-Contrib
 
-    push:
-        branches:
-            - main
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+  
+permissions:
+  contents: write
 
 jobs:
-    generate:
-        permissions:
-            contents: write
-        runs-on: ubuntu-latest
-        timeout-minutes: 5
-        steps:
-            - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  USERNAME: aliammari1
-            - uses: crazy-max/ghaction-github-pages@v3
-              with:
-                  target_branch: main
-                  build_dir: ./assets
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name aliammari1
+          git config user.email ammari.ali.0001@gmail.com
+          git add -A .
+          if git commit -m "Update Profile 3d Calendar"; then
+            git push
+          fi

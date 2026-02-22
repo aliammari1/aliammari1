@@ -29,10 +29,12 @@ jobs:
         run: |
           git config user.name aliammari1
           git config user.email ammari.ali.0001@gmail.com
+          git pull
           git add -A .
           if git commit -m "Update Profile 3d Calendar"; then
             git push
           fi
+
 
 
 

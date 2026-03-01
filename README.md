@@ -135,7 +135,7 @@
   <a href="https://github.com/aliammari1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://alis-organization-72.gitbook.io/awesome-ai-tools/">
+  <a href="https://www.linkedin.com/in/aliammari68/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -155,6 +155,7 @@
   <img src="https://img.shields.io/badge/Powered%20by-☕-1e40af?style=flat" />
   <img src="https://img.shields.io/badge/Open-Source-1e3a8a?style=flat" />
 </div>
+
 
 
 

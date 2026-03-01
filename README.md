@@ -127,10 +127,10 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/aliammari1/aliammari1/output/github-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/aliammari1/aliammari1/main/assets/snake.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/aliammari1/aliammari1/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/aliammari1/aliammari1/output/github-snake.svg" />
+      srcset="https://raw.githubusercontent.com/aliammari1/aliammari1/main/assets/snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/aliammari1/aliammari1/main/assets/snake.svg" />
   </picture>
 </div>
 
@@ -171,5 +171,6 @@
   <img src="https://img.shields.io/badge/Powered%20by-☕-1e40af?style=flat" />
   <img src="https://img.shields.io/badge/Open-Source-1e3a8a?style=flat" />
 </div>
+
 
 

@@ -78,22 +78,6 @@
 
 ---
 
-<!-- GITHUB ACTIONS WIDGET 4: Recent Activity -->
-<!-- SETUP: Add .github/workflows/activity.yml -->
-<h2 align="center">⚡ Recent GitHub Activity</h2>
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#146](https://github.com/aliammari1/rakcha-desktop/pull/146) in [aliammari1/rakcha-desktop](https://github.com/aliammari1/rakcha-desktop)
-2. 🔒 Closed issue [#31](https://github.com/aliammari1/aliammari1/issues/31) in [aliammari1/aliammari1](https://github.com/aliammari1/aliammari1)
-3. 🔒 Closed issue [#31](https://github.com/aliammari1/aliammari1/issues/31) in [aliammari1/aliammari1](https://github.com/aliammari1/aliammari1)
-4. 🔒 Closed issue [#27](https://github.com/aliammari1/aliammari1/issues/27) in [aliammari1/aliammari1](https://github.com/aliammari1/aliammari1)
-5. 🔒 Closed issue [#20](https://github.com/aliammari1/aliammari1/issues/20) in [aliammari1/aliammari1](https://github.com/aliammari1/aliammari1)
-6. 🔒 Closed issue [#18](https://github.com/aliammari1/aliammari1/issues/18) in [aliammari1/aliammari1](https://github.com/aliammari1/aliammari1)
-7. 🔒 Closed issue [#14](https://github.com/aliammari1/aliammari1/issues/14) in [aliammari1/aliammari1](https://github.com/aliammari1/aliammari1)
-8. 🔒 Closed issue [#2](https://github.com/aliammari1/aliammari1/issues/2) in [aliammari1/aliammari1](https://github.com/aliammari1/aliammari1)
-<!--END_SECTION:activity-->
----
-
 <!-- Advanced Stats Grid -->
 <h2 align="center">📊 Advanced Developer Metrics</h2>
 

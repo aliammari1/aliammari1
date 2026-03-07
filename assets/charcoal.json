@@ -1,0 +1,13 @@
+{
+  "type": "north-star",
+  "backgroundColor": "#1a1a1a",
+  "foregroundColor": "#b0b0b0",
+  "contributionColorArray": [
+    "#2e2e2e",
+    "#4a4a4a",
+    "#686868",
+    "#909090",
+    "#d0d0d0"
+  ],
+  "fileName": "profile-charcoal.svg"
+}

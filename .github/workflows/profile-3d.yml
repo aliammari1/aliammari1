@@ -4,11 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
   push:
     branches:
       - main
-  
+
 permissions:
   contents: write
 
@@ -22,12 +21,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: assets/charcoal.json
+
       - name: Commit & Push
         run: |
           git config user.name aliammari1
           git config user.email ammari.ali.0001@gmail.com
           git add -A .
-          if git commit -m "Update Profile 3d Calendar"; then
+          if git commit -m "chore: update 3D contribution calendar"; then
             git push
           fi
-

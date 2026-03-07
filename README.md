@@ -149,7 +149,7 @@
   <a href="https://github.com/aliammari1">
     <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aliammari68/">
+  <a href="https://www.linkedin.com/in/aliammari1/">
     <img src="https://img.shields.io/badge/Linkedin-2d2d2d?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -168,3 +168,4 @@
   <img src="https://img.shields.io/badge/Powered%20by-☕-2d2d2d?style=flat" />
   <img src="https://img.shields.io/badge/Open-Source-1a1a1a?style=flat" />
 </div>
+

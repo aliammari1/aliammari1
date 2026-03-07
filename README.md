@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td>⚡ <strong>My stack</strong></td>
-      <td>TypeScript · React · Next.js · NestJS · Flutter · Python · Go</td>
+      <td>TypeScript · React · Next.js · NestJS · Flutter · Python . Java</td>
     </tr>
     <tr>
       <td>🌍 <strong>Open source</strong></td>
@@ -54,43 +54,6 @@
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" />
-</div>
-
----
-
-<!-- Comprehensive Tech Stack -->
-<h2 align="center">💻 Complete Technology Arsenal</h2>
-
-<div align="center">
-  <h3>🔥 Core Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,php,html,css,swift,kotlin,dart&theme=dark" />
-  
-  <h3>⚡ Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,qt,flutter,nextjs,nestjs,fastapi&theme=dark" />
-  
-  <h3>🗄️ Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,azure,aws,vercel,netlify,supabase,redis,appwrite&theme=dark" />
-  
-  <h3>🛠️ Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,docker,gradle,maven&theme=dark" />
-  
-  <h3>🏗️ DevOps & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,grafana,prometheus,ansible&theme=dark" />
-  
-  <h3>🔧 Additional Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=prisma,rabbitmq,nginx&theme=dark" />
-  
-  <h3>🔐 Security & Monitoring Tools</h3>
-  <img src="https://img.shields.io/badge/Keycloak-2d2d2d?style=for-the-badge&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/Consul-3a3a3a?style=for-the-badge&logo=consul&logoColor=white" />
-  <img src="https://img.shields.io/badge/etcd-2d2d2d?style=for-the-badge&logo=etcd&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-3a3a3a?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portainer-2d2d2d?style=for-the-badge&logo=portainer&logoColor=white" />
-  <img src="https://img.shields.io/badge/MinIO-3a3a3a?style=for-the-badge&logo=minio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-1a1a1a?style=for-the-badge&logo=vault&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-2d2d2d?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tempo-3a3a3a?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-2d2d2d?style=for-the-badge&logo=grafana&logoColor=white" />
 </div>
 
 ---
@@ -168,4 +131,5 @@
   <img src="https://img.shields.io/badge/Powered%20by-☕-2d2d2d?style=flat" />
   <img src="https://img.shields.io/badge/Open-Source-1a1a1a?style=flat" />
 </div>
+
 

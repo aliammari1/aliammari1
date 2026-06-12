@@ -1,6 +1,7 @@
 <!-- Banner: charcoal editorial hero.
-     TODO: generate a 1280x640 hero into assets/ (see BANNER.md) and replace
-     the capsule-render placeholder below with the committed local asset. -->
+     TODO: generate assets/hero.png (1280x320, see BANNER.md) and swap the
+     capsule-render placeholder below for the committed local asset:
+       <img src="./assets/hero.png" alt="Ali Ammari — Full-Stack & AI Application Builder" /> -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d2d2d,100:3a3a3a&height=200&section=header&text=Ali%20Ammari&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Application%20Builder%20|%20Open%20Source%20Contributor&descAlignY=55&descSize=20" alt="Ali Ammari" />
 </div>

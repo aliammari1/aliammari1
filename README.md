@@ -92,6 +92,21 @@
 
 ---
 
+<!-- Skills over time. Self-hosted replacement for the discontinued CodersRank
+     skills-chart widget. Both SVGs are regenerated from the GitHub API by
+     .github/workflows/skills-chart.yml — do not edit assets/skills-chart*.svg by hand. -->
+<h2 align="center">📈 Skills Over Time</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/skills-chart-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-chart.svg" />
+    <img alt="Coding skills over time, by language — commit-weighted, regenerated weekly from the GitHub API" src="./assets/skills-chart.svg" />
+  </picture>
+</div>
+
+---
+
 <!-- Contribution Snake -->
 <h2 align="center">🐍 Contribution Snake</h2>
 

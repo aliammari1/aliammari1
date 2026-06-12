@@ -1,44 +1,33 @@
-<!-- Dynamic Header with Charcoal Colors -->
+<!-- Banner: charcoal editorial hero.
+     TODO: generate a 1280x640 hero into assets/ (see BANNER.md) and replace
+     the capsule-render placeholder below with the committed local asset. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d2d2d,100:3a3a3a&height=200&section=header&text=Ali%20Ammari&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Application%20Builder%20|%20Open%20Source%20Contributor&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d2d2d,100:3a3a3a&height=200&section=header&text=Ali%20Ammari&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Application%20Builder%20|%20Open%20Source%20Contributor&descAlignY=55&descSize=20" alt="Ali Ammari" />
 </div>
 
 <!-- Live Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Building+the+Future+with+Code;💡+AI+%26+Machine+Learning+Explorer;🌍+Open+Source+Advocate;🎯+Problem+Solver+%26+Innovator;📱+Cross-Platform+Developer&font=Fira%20Code&center=true&width=600&height=50&color=aaaaaa&vCenter=true&size=22&pause=1000" />
-</div>
-
-<!-- Profile Analytics Dashboard with Charcoal Style -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliammari1&color=3a3a3a&style=flat&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/aliammari1?label=Followers&style=flat&color=2d2d2d&logo=github" />
-  <img src="https://img.shields.io/github/stars/aliammari1?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=3a3a3a&label=Total%20Stars" />
-  <img src="https://img.shields.io/badge/Open%20For-Collaboration-4a4a4a?style=flat&logo=handshake" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+the+Future+with+Code;AI+%26+Machine+Learning+Explorer;Open+Source+Advocate;Cross-Platform+Developer&font=Fira%20Code&center=true&width=600&height=50&color=aaaaaa&vCenter=true&size=22&pause=1000" alt="What I do" />
 </div>
 
 ---
 
 <!-- Bio Section -->
-<!-- Bio Section -->
 <div align="center">
-  <h2>👋 Hi, I'm Ali Ammari</h2>
+  <h2>Hi, I'm Ali Ammari</h2>
   <p>
     Full-Stack Developer · Mobile Developer · AI Application Builder<br/>
-    Based in <strong>Tunisia</strong> 🇹🇳 — available for remote work worldwide
+    Based in Tunisia — available for remote work worldwide
   </p>
 
   <table>
     <tr>
       <td>🛠️ <strong>What I build</strong></td>
-      <td>Web apps, mobile apps (iOS & Android), and AI-powered products — end to end</td>
+      <td>Web apps, mobile apps (iOS &amp; Android), and AI-powered products — end to end</td>
     </tr>
     <tr>
       <td>⚡ <strong>My stack</strong></td>
-      <td>TypeScript · React · Next.js · NestJS · Flutter · Python . Java</td>
-    </tr>
-    <tr>
-      <td>🌍 <strong>Open source</strong></td>
-      <td>20+ public repos — clean code, real projects, actively maintained</td>
+      <td>TypeScript · React · Next.js · NestJS · Flutter · Python · Java</td>
     </tr>
     <tr>
       <td>💼 <strong>Availability</strong></td>
@@ -49,7 +38,25 @@
 
 ---
 
-<!-- GITHUB ACTIONS WIDGET 2: 3D Contribution Calendar -->
+<!-- Featured Projects. The blurbs between the markers below are kept current by
+     .github/workflows/featured-projects.yml (gated on ANTHROPIC_API_KEY); the
+     static text committed here is the fallback when the key is absent. -->
+<h2 align="center">⭐ Featured Projects</h2>
+
+<!-- FEATURED-PROJECTS:START -->
+
+- **[awesome-ai-tools](https://github.com/aliammari1/awesome-ai-tools)** — Curated, multilingual awesome-list of AI tools with a deployed Astro site.
+- **[JobPrep](https://github.com/aliammari1/JobPrep)** — Multi-provider AI career app: CV builder, mock interviews, and a coding arena.
+- **[games](https://github.com/aliammari1/games)** — Browser games monorepo: canvas snake and an unbeatable-AI Tic-Tac-Toe.
+- **[github-traffic-analytics](https://github.com/aliammari1/github-traffic-analytics)** — Next.js dashboard that persists GitHub traffic past the 14-day window.
+- **[pulmocare](https://github.com/aliammari1/pulmocare)** — Chest-imaging clinical platform built on a MedRAX LangGraph agent mesh.
+- **[rakcha](https://github.com/aliammari1/rakcha)** — Polyglot cinema platform: JavaFX desktop, Symfony/Twig web, and Flutter mobile.
+
+<!-- FEATURED-PROJECTS:END -->
+
+---
+
+<!-- 3D Contribution Calendar -->
 <h2 align="center">🌐 3D Contribution Calendar</h2>
 
 <div align="center">
@@ -58,25 +65,25 @@
 
 ---
 
-<!-- Advanced Stats Grid -->
-<h2 align="center">📊 Advanced Developer Metrics</h2>
+<!-- Developer Metrics -->
+<h2 align="center">📊 Developer Metrics</h2>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliammari1&theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliammari1&theme=github_dark" alt="Repos per language" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliammari1&theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliammari1&theme=github_dark" alt="Most commit language" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliammari1&theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliammari1&theme=github_dark" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliammari1&theme=github_dark&utcOffset=1" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliammari1&theme=github_dark&utcOffset=1" alt="Productive time" />
       </td>
     </tr>
   </table>
@@ -84,53 +91,29 @@
 
 ---
 
-<!-- GITHUB ACTIONS WIDGET 1: Contribution Snake -->
+<!-- Contribution Snake -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/aliammari1/aliammari1/main/assets/snake.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/aliammari1/aliammari1/main/assets/snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/aliammari1/aliammari1/main/assets/snake.svg" />
-  </picture>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/aliammari1/aliammari1/main/assets/snake.svg" />
 </div>
 
 ---
 
 <!-- Contact & Social Links -->
-<h2 align="center">🌐 Connect & Collaborate</h2>
+<h2 align="center">🌐 Connect &amp; Collaborate</h2>
 
 <div align="center">
   <a href="mailto:contact@aliammari.com">
-    <img src="https://img.shields.io/badge/Gmail-2d2d2d?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-2d2d2d?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://aliammari.com">
-    <img src="https://img.shields.io/badge/Portfolio-3a3a3a?style=flat&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-3a3a3a?style=flat&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/aliammari1">
-    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/aliammari1/">
-    <img src="https://img.shields.io/badge/Linkedin-2d2d2d?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
----
-
-<!-- Footer with Charcoal Colors -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d2d2d,100:3a3a3a&height=120&section=footer&animation=twinkling" />
-  
-  <p>
-    <em>"Code is poetry written in logic, and every commit is a verse in the story of innovation."</em>
-  </p>
-  
-  <img src="https://img.shields.io/badge/Built%20with-❤️-3a3a3a?style=flat" />
-  <img src="https://img.shields.io/badge/Powered%20by-☕-2d2d2d?style=flat" />
-  <img src="https://img.shields.io/badge/Open-Source-1a1a1a?style=flat" />
-</div>
-
-
-

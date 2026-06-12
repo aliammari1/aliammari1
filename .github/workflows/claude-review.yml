@@ -1,0 +1,38 @@
+name: Claude PR Review
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+# Gated on ANTHROPIC_API_KEY: the job is skipped entirely on forks /
+# when the secret is absent, so this never errors for contributors.
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  review:
+    if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
+    runs-on: ubuntu-latest
+    env:
+      HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+    steps:
+      - name: Harden the runner
+        uses: step-security/harden-runner@9af89fc71515a100421586dfdb3dc9c984fbf411 # v2.19.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+        with:
+          fetch-depth: 0
+
+      - name: Claude review
+        if: ${{ env.HAS_KEY == 'true' }}
+        uses: anthropics/claude-code-action@0f97b95b6536c26e5f6bd90faec370d41695beca # v1.0.144
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Review this pull request to the profile README repository.
+            Focus on: workflow YAML correctness, action SHA-pinning hygiene,
+            least-privilege permissions, and broken README links/badges.
+            Keep feedback short and only flag real issues.

@@ -3,38 +3,44 @@ name: Generate snake animation
 on:
   schedule: # execute every 12 hours
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
 
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-commit-main
+  cancel-in-progress: false
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v5
+      - name: Harden the runner
+        uses: step-security/harden-runner@9af89fc71515a100421586dfdb3dc9c984fbf411 # v2.19.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: assets/snake.svg?palette=github-dark
 
-      - name: Commit & Push
+      - name: Commit & push (rebase-safe)
         run: |
           git config user.name aliammari1
           git config user.email ammari.ali.0001@gmail.com
-          git pull
           git add -A .
-          if git commit -m "Update Profile 3d Calendar"; then
+          if git commit -m "chore: update contribution snake"; then
+            git pull --rebase origin main
             git push
           fi
-
-
-
-

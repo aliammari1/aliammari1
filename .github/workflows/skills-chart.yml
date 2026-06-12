@@ -1,0 +1,54 @@
+name: Skills Chart
+
+on:
+  schedule:
+    # Weekly, Sunday 04:30 UTC. Offset from metrics (daily), the snake/3d
+    # generators and featured-projects (Mon 05:00) so it never collides on
+    # the shared profile-commit-main concurrency group. Skills move slowly.
+    - cron: "30 4 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-commit-main
+  cancel-in-progress: false
+
+jobs:
+  skills:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Harden the runner
+        uses: step-security/harden-runner@9af89fc71515a100421586dfdb3dc9c984fbf411 # v2.19.4
+        with:
+          egress-policy: audit
+
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+
+      - name: Set up Node
+        uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
+        with:
+          node-version: "22"
+
+      - name: Generate skills charts (charcoal + light)
+        env:
+          # gh CLI reads GH_TOKEN; the default token can read public repos + languages.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          node .github/scripts/skills-chart.mjs --THEME=charcoal --OUT=assets/skills-chart.svg
+          node .github/scripts/skills-chart.mjs --THEME=light    --OUT=assets/skills-chart-light.svg
+
+      - name: Commit & push (rebase-safe)
+        run: |
+          git config user.name aliammari1
+          git config user.email ammari.ali.0001@gmail.com
+          git add assets/skills-chart.svg assets/skills-chart-light.svg
+          if git commit -m "chore: refresh skills-over-time chart"; then
+            git pull --rebase origin main
+            git push
+          fi

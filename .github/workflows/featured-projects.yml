@@ -48,8 +48,8 @@ jobs:
       - name: Commit & push (rebase-safe)
         if: ${{ env.HAS_KEY == 'true' }}
         run: |
-          git config user.name aliammari1
-          git config user.email ammari.ali.0001@gmail.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           if git commit -m "chore: refresh Featured Projects blurbs"; then
             git pull --rebase origin main

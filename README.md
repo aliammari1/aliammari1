@@ -103,10 +103,10 @@
 <h2 align="center">🌐 Connect & Collaborate</h2>
 
 <div align="center">
-  <a href="mailto:contact@aliammari.com">
+  <a href="mailto:contact@aliammari.dev">
     <img src="https://img.shields.io/badge/Gmail-2d2d2d?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aliammari.com">
+  <a href="https://aliammari.dev">
     <img src="https://img.shields.io/badge/Portfolio-3a3a3a?style=flat&logo=firefox&logoColor=white" />
   </a>
   <a href="https://github.com/aliammari1">

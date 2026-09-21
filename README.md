@@ -76,9 +76,9 @@
 
 <div align="center">
   <img
-    src="./profile-3d-contrib/profile-night-green.svg"
-    alt="Ali Ammari GitHub 3D contribution calendar and open source activity"
-  />
+  src="https://raw.githubusercontent.com/aliammari1/aliammari1/main/profile-3d-contrib/profile-night-green.svg"
+  alt="Ali Ammari GitHub 3D contribution calendar and open source activity"
+/>
 </div>
 
 ---

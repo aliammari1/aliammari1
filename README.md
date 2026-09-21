@@ -27,7 +27,7 @@
     Based in <strong>Tunisia</strong> 🇹🇳 — available for remote work worldwide
   </p>
 
-  <table>
+  <table>svg
     <tr>
       <td>🛠️ <strong>What I build</strong></td>
       <td>Web apps, mobile apps (iOS & Android), and AI-powered products — end to end</td>
